@@ -1,8 +1,8 @@
 # Ember & Noodle — a night-market cooking game
 
-![competition](https://make.fun/badge/best-cooking-game-20261125-0137.svg)
-![rank](https://make.fun/badge/best-cooking-game-20261125-0137/lerrboyy/cooking-game/rank.svg)
-![reward](https://make.fun/badge/best-cooking-game-20261125-0137/lerrboyy/cooking-game/reward.svg)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/lerrboyy/cooking-game/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/lerrboyy/cooking-game/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 **Make.fun entry — "Make the best cooking game"** ($250, 10 places paid).
 Play it: open `game/index.html` in a desktop browser. No network, no build step.
